@@ -12,6 +12,7 @@ NetGuard Financial Solutions
 This repository contains a comprehensive network topology for a bank's enterprise network, created using Cisco Packet Tracer. The design is structured to ensure optimal performance, security, and scalability for various departments or branch offices within the bank.
 
 Key Features of the Network Design:
+
 VLAN Segmentation:
 The network is segmented into multiple VLANs (Virtual Local Area Networks), each representing a different branch or department. This logical separation improves security and reduces broadcast traffic within the network.
 
