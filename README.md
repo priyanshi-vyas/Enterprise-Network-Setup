@@ -1,5 +1,5 @@
-# Bank-Enterprise-Network-Design
-Design of an Enterprise Bank Network along with its simulation is implemented using cisco packet tracer
+# NetGuard Financial Solutions
+NetGuard Financial Solutions is a Design of an Enterprise Bank Network along with its simulation is implemented using cisco packet tracer
 
 ## Bank network requirements
 - Bank consists of 3 branches and 1 main branch.
